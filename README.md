@@ -11,9 +11,9 @@
 
 - 💬 Podes preguntar sobre  **HTML, CSS, Javascript, Git **
 
-- Conocimientos basicos en ** Python **
-
 - 📫 Contactame **cristian22rz@gmail.com**
+
+- 🌱 Conocimientos basicos en ** Python **
 
 - 🌱 Actualmente aprendiendo ** Java ** y ** React **
 
