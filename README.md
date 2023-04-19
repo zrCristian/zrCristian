@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
   <h1 align="center" >Hola 👋, Soy Cristian</h1>
-  <h3 align="center">Estudiante de ingeniería Informatica. Soy de Argentina y me gusta desarrollar la parte front-end, ya que me permite crear interfacez de usuario interactivas haciendo que el sitio web sea los más intuitivo posible.</h3>
+  <h3 align="center">Estudiante de Analista Programador. Soy de Argentina y me gusta desarrollar la parte front-end, ya que me permite crear interfacez de usuario interactivas haciendo que el sitio web sea los más intuitivo posible.</h3>
 </div>
 
 ---
@@ -9,11 +9,13 @@
 ### 👨‍💻 About Me :
 
 
-- 💬 Podes preguntar sobre  **HTML, CSS, Javascript, Git, React **
+- 💬 Podes preguntar sobre  **HTML, CSS, Javascript, Git **
 
-- 📫 Contactame **cristianguari15@gmail.com**
+- Conocimientos basicos en ** Python **
 
-- 🌱 Actualmente estoy mejorando en **React ** y aprendiendo ** Java **
+- 📫 Contactame **cristian22rz@gmail.com**
+
+- 🌱 Actualmente aprendiendo ** Java ** y ** React **
 
 <p align="left">
 <a href="https://linkedin.com/in/cristian-rafael-zamora/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian zamora" height="30" width="40" /></a>
